@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ba2it Gharib 3anni – You became a stranger to me |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 30, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ba2it-gharib-3anni-you-became-a-stranger-to-me/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
