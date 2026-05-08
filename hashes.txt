@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ba2it Gharib 3anni – You became a stranger to me
+
+This log tracks the cryptographic history and versioning for the song **Ba2it Gharib 3anni – You became a stranger to me** (ba2it-gharib-3anni-you-became-a-stranger-to-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:16:20.695692 | `v1` | `a9c854b77779397d9121bf425b8606bfebd463216b38c36eb38d3d677dac068c` | `a561e90ae93f0ba9a124e3a9b6ce3d1905524c7b43dfb5a25d866bc8dafea583` | `2026-05-09_ba2it-gharib-3anni-you-became-a-stranger-to-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
